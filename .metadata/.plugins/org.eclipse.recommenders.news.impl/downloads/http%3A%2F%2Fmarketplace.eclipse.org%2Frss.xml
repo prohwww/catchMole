@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Wild Web Developer: HTML, CSS, JavaScript, TypeScript,  Node.js, Angular, JSON, YAML (+Kubernetes), XML</title>
+    <link>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wild-web-developer-marketplace-logo.png&quot; width=&quot;110&quot; height=&quot;78&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-09-27 03:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Wild%20Web%20Developers%20Contributors%22&quot;&gt;Eclipse Wild Web Developers Contributors&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-13 10:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mistria/listings&quot; title=&quot;Mickael Istria&quot;&gt;Mickael Istria&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Edit HTML, CSS, JavaScript, TypeScript (+Angular), JSON (+schema), XML (+schema), YAML (+schema+Kubernetes)&lt;/strong&gt; and &lt;strong&gt;debug Node.js and HTML+JS web-apps &lt;/strong&gt;simply and efficiently in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;To see it in action, open the desired file with the &lt;em&gt;Generic Editor&lt;/em&gt; that&#039;s included by default in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;Supported file formats for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;CSS, SCSS, SASS, LESS&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;JavaScript (EcmaScript 2018 - 9th edition)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;TypeScript 3.3&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;JSON&lt;/em&gt; and &lt;em&gt;JSONC&lt;/em&gt; (including schema support)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;YAML&lt;/em&gt; (including schema support)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;XML&lt;/em&gt; (including schema support),&lt;em&gt; XSL, XSD, DTD&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported frameworks (file specialization) for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;Angular&lt;/em&gt; (Components in TypeScript files)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kubernetes&lt;/em&gt; (schema built-in when editing YAML)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;React&lt;/em&gt; (JSX, TSX, embedded HTML)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported feature for edition are&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Validation (diagnostics, markers)&lt;/li&gt;
+&lt;li&gt;Code Completion&lt;/li&gt;
+&lt;li&gt;Hover&lt;/li&gt;
+&lt;li&gt;Outline&lt;/li&gt;
+&lt;li&gt;Rename refactoring&lt;/li&gt;
+&lt;li&gt;Jump to declaration&lt;/li&gt;
+&lt;li&gt;Find references&lt;/li&gt;
+&lt;li&gt;Color preview&lt;/li&gt;
+&lt;li&gt;... and other features part of the Language Server Protocol&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported debugging target&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;Node.js&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Firefox&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Chromium&lt;/em&gt; and &lt;em&gt;Chrome&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 13 Apr 2017 14:52:25 +0000</pubDate>
+ <dc:creator>mistria</dc:creator>
+ <guid isPermaLink="false">3394048 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml#comments</comments>
+  </item>
+  <item>
+    <title>MetaModelAgent for Papyrus, IBM RSAD/RTE and HCL RTist</title>
+    <link>http://marketplace.eclipse.org/content/metamodelagent-papyrus-ibm-rsadrte-and-hcl-rtist</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/MMA_Eclipse_MarketPlace_Icon.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-09-26 03:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Adocus%20AB%22&quot;&gt;Adocus AB&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2011-05-16 08:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twiman/listings&quot; title=&quot;Thomas Wiman&quot;&gt;Thomas Wiman&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;[&lt;strong&gt;IMPORTANT: &lt;/strong&gt;You need to have Papyrus UML or IBM RSA installed prior to installation of MetaModelAgent. Install button is for Papyrus 4.0 users. Please use update site &lt;strong&gt;&lt;a href=&quot;http://www.metamodelagent.com/update&quot; rel=&quot;nofollow&quot;&gt;http://www.metamodelagent.com/update&lt;/a&gt; &lt;/strong&gt;for IBM RSAD/RSARTE and older versions of Papyrus]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A &lt;em&gt;Domain-specific Modeling Language (DSML)&lt;/em&gt; is a modeling language tailored for a very specific and limited domain. A DSML is a combination of visual presentation of entities from the domain as well as a set of rules that defines their behavior. A well-defined DSML should help you to express whatever needed in the specific domain in a correct manner without disturbance from concepts irrelevant for the domain.&lt;/p&gt;
+&lt;p&gt;A &lt;em&gt;UML-based DSML&lt;/em&gt; is a combination of extension and limitation of the Unified Modeling Language (UML) for a specific modeling domain. A UML-based DSML does often, but not always, include UML-profile(s) with stereotypes and additional properties, as well as new graphics (icons and symbols). A UML-based DSML should also contains a set of constraints on how UML and the extensions should be applied in terms of model structure, element and relationship usage, valid property values, diagram placement and diagram content etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MetaModelAgent&lt;/strong&gt; is a modeling tool extension that makes it very simple to define your own DSML and make it available for the modelers through powerful UI additions to your Eclipse-based UML modleing tool. Key features:&lt;/p&gt;
+&lt;ul&gt;&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Agile DSML Configuration&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent makes it very easy to setup your own DSML-specific modeling tool using a UML-based metamodels as a single source of information. There is no need at all for any API-based programmatic extensions.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Accelerated DSML-modeling&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent uses your own metamodel to provide a DSML-specific modeling tool with user-friendly context-sensitive wizards, views, menus and palettes. This makes it possible to develop and validate high-quality DSML-models rapidly without the risk of introducing violations to the DSML.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Powerful analysis capabilities&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent adds several additional views to support advanzed model analysis; table view of element properties, matrix view of relationships, tree view of relationship chains and several chart views for management overviews.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Makes you models available for anyone&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent generates easy-navigable model reports of your DSML-models and DSML-guidelines in HTML-format. This makes your models accessible by anyone through a standard web browser.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Flexible and Scalable&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent supports any kind of UML-based DSML of any size, independent of any development process. MetaModelAgent supports any number of different DSML-guidelines and models simultaneously in the same environment.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Built-in Support for standard UML and UML-RT&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent has embedded guidelines for standard UML and UML-RT that make its possible to use MetaModelAgent´s unique UI extensions and analysis capabilities out-of-the-box, without the need of any DSML-definition.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;MetaModelAgent is available as an addition to the following Eclipse-based UML-modeling tools:&lt;/p&gt;
+&lt;ul&gt;&lt;li type=&quot;disc&quot;&gt;Open source Eclipse Papyrus&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;IBM Rational Software Architect Designer (RSAD)&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;IBM Rational Software Architect RealTime Edition (RSARTE)&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;HCL RealTime Software Tooling (HCL RTist)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;MetaModelAgent is installed from the update site: &lt;a href=&quot;http://www.metamodelagent.com/update&quot; rel=&quot;nofollow&quot;&gt;http://www.metamodelagent.com/update&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To use the MetaModelAgent functionality after installation you will have to order a limited FREE license, request a 30-day trial license or purchase an unlimited license. For more information see &lt;a href=&quot;http://www.adocus.com/en/products/metamodelagent&quot; rel=&quot;nofollow&quot;&gt;Adocus company website&lt;/a&gt; and &lt;a href=&quot;http://www.metamodelagent.com&quot; rel=&quot;nofollow&quot;&gt;MetaModelAgent product website&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 16 May 2011 12:36:00 +0000</pubDate>
+ <dc:creator>twiman</dc:creator>
+ <guid isPermaLink="false">53864 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/metamodelagent-papyrus-ibm-rsadrte-and-hcl-rtist#comments</comments>
+  </item>
+  <item>
+    <title>PHP :: CodeMix</title>
+    <link>http://marketplace.eclipse.org/content/php-codemix</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/2000px-PHP-logo.svg_.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-09-25 10:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2018-04-21 10:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The PHP pack for &lt;a href=&quot;https://www.genuitec.com/products/codemix/&quot; rel=&quot;nofollow&quot;&gt;CodeMix 3&lt;/a&gt; brings the best extensions for PHP from VS Code directly into Eclipse. From smarter editing to integrated debugging, CodeMix with PHP can work seamlessly with your existing IDE including with PDT.&lt;/p&gt;
+&lt;p&gt;Key pack extensions delivered along with CodeMix 3:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/felixfbecker/vscode-php-intellisense&quot; rel=&quot;nofollow&quot;&gt;PHP Intellisense extension by Felix Becker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/felixfbecker/vscode-php-debug&quot; rel=&quot;nofollow&quot;&gt;PHP Debug extension by Felix Becker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ChristianKohler/PathIntellisense&quot; rel=&quot;nofollow&quot;&gt;Path Intellisense extension by Christian Kohler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/formulahendry/vscode-code-runner&quot; rel=&quot;nofollow&quot;&gt;CodeRunner extension by Jun Han&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 21 Apr 2018 14:20:49 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">4043068 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/php-codemix#comments</comments>
+  </item>
+  <item>
+    <title>TypeScript :: CodeMix</title>
+    <link>http://marketplace.eclipse.org/content/typescript-codemix</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ts-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-09-25 10:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-09-21 18:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;TypeScript plugin with: syntax coloring, content assist, tsconfig.json support, real-time validation, formatting, jump to definition and more. Built on CodeMix 3 for superior technology support.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 21 Sep 2016 22:24:43 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">3083980 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/typescript-codemix#comments</comments>
+  </item>
+  <item>
+    <title>Python :: CodeMix</title>
+    <link>http://marketplace.eclipse.org/content/python-codemix</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/5848152fcef1014c0b5e4967.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-09-25 10:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2018-04-21 09:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Python pack for &lt;a href=&quot;https://www.genuitec.com/products/codemix/&quot; rel=&quot;nofollow&quot;&gt;CodeMix 3&lt;/a&gt; brings the best extensions for Python from VS Code directly into Eclipse. From smarter editing to integrated debugging, CodeMix with Python can work seamlessly with your existing IDE including with PyDev.&lt;/p&gt;
+&lt;p&gt;Key pack extensions delivered along with CodeMix 3:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/vscode-python&quot; rel=&quot;nofollow&quot;&gt;Python extension by Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ChristianKohler/PathIntellisense&quot; rel=&quot;nofollow&quot;&gt;Path Intellisense extension by Christian Kohler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/formulahendry/vscode-code-runner&quot; rel=&quot;nofollow&quot;&gt;CodeRunner extension by Jun Han&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 21 Apr 2018 13:56:53 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">4043040 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/python-codemix#comments</comments>
+  </item>
+  <item>
+    <title>Go :: CodeMix</title>
+    <link>http://marketplace.eclipse.org/content/go-codemix</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/go.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-09-25 10:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-09-19 08:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Go pack for CodeMix 3 brings the best extensions for Go development from VS Code directly into Eclipse. From smarter editing to integrated debugging, CodeMix with Go can work seamlessly with your existing IDE.&lt;/p&gt;
+&lt;p&gt;Key pack extension delivered along with CodeMix 3:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/vscode-go/&quot; rel=&quot;nofollow&quot;&gt;Go extension by Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 19 Sep 2019 12:56:43 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">4805355 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/go-codemix#comments</comments>
+  </item>
+  <item>
+    <title>React :: CodeMix</title>
+    <link>http://marketplace.eclipse.org/content/react-codemix</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/react-hexagon.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-09-25 10:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2018-04-21 12:06&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The React pack for &lt;a href=&quot;https://www.genuitec.com/products/codemix/&quot; rel=&quot;nofollow&quot;&gt;CodeMix 3&lt;/a&gt; brings the best extensions for React coding from VS Code directly into Eclipse. From smarter editing to integrated debugging, CodeMix with React can work seamlessly with your existing IDE.&lt;/p&gt;
+&lt;p&gt;Key pack extensions delivered along with CodeMix 3:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/vscode-react-native&quot; rel=&quot;nofollow&quot;&gt;React Native extension by Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/xabikos/vscode-react&quot; rel=&quot;nofollow&quot;&gt;React Snippets by Charalampos Karypidis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/vscode-chrome-debug&quot; rel=&quot;nofollow&quot;&gt;Chrome Debugging extension by Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ChristianKohler/PathIntellisense&quot; rel=&quot;nofollow&quot;&gt;Path Intellisense extension by Christian Kohler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 21 Apr 2018 16:06:02 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">4043160 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/react-codemix#comments</comments>
+  </item>
+  <item>
+    <title>Vue.js :: CodeMix</title>
+    <link>http://marketplace.eclipse.org/content/vuejs-codemix</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo_0.png&quot; width=&quot;110&quot; height=&quot;79&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-09-25 10:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2018-04-21 11:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Vue.js pack for &lt;a href=&quot;https://www.genuitec.com/products/codemix/&quot; rel=&quot;nofollow&quot;&gt;CodeMix 3&lt;/a&gt; adds the best development experience available for Vue 2 (and Vue 1). Support for the powerful .vue file format unlocks its progressive framework for building user interfaces. From smarter editing to integrated debugging, CodeMix with Vue.js can work seamlessly with your existing IDE.&lt;/p&gt;
+&lt;p&gt;Key pack extensions delivered along with CodeMix 3:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/vuejs/vetur&quot; rel=&quot;nofollow&quot;&gt;Vue.js extension by the Vue.js team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/vscode-chrome-debug&quot; rel=&quot;nofollow&quot;&gt;Chrome Debugging extension by Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ChristianKohler/PathIntellisense&quot; rel=&quot;nofollow&quot;&gt;Path Intellisense extension by Christian Kohler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/formulahendry/vscode-code-runner&quot; rel=&quot;nofollow&quot;&gt;CodeRunner extension by Jun Han&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 21 Apr 2018 15:21:24 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">4043127 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/vuejs-codemix#comments</comments>
+  </item>
+  <item>
+    <title>CodeMix 3</title>
+    <link>http://marketplace.eclipse.org/content/codemix-3</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/codemix-icon.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-09-25 10:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2018-04-02 15:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.genuitec.com/products/codemix/&quot; rel=&quot;nofollow&quot;&gt;Updated!&lt;/a&gt; Integrate anything from &lt;a href=&quot;https://www.genuitec.com/tech/vue-in-eclipse/&quot; rel=&quot;nofollow&quot;&gt;Vue&lt;/a&gt; to &lt;a href=&quot;https://www.genuitec.com/tech/react-in-eclipse/&quot; rel=&quot;nofollow&quot;&gt;React&lt;/a&gt; in your daily development. eLearning courses right inside your IDE get you going fast.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Replaces &amp;amp; enhances JavaScript, HTML and CSS development&lt;/li&gt;
+&lt;li&gt;Integrates live previewing of web apps right next to your code (NEW!)&lt;/li&gt;
+&lt;li&gt;Seamless HTML and Markdown previewing (NEW!)&lt;/li&gt;
+&lt;li&gt;Adds technologies and frameworks including TypeScript&lt;/li&gt;
+&lt;li&gt;Optimizes Eclipse: avoid endless validation &amp;amp; more&lt;/li&gt;
+&lt;li&gt;Provides interactive tutorials to quickly learn technologies&lt;/li&gt;
+&lt;li&gt;Unlocks the smarts of VS Code right inside the Eclipse IDE&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The steady stream of new tech can leave you feeling outdated, but there&#039;s no reason to get left behind. &lt;a href=&quot;https://www.genuitec.com/products/codemix/&quot; rel=&quot;nofollow&quot;&gt;CodeMix&lt;/a&gt; can be installed on top of leading Eclipse solutions like MyEclipse, Spring Tools Suite and JBoss Tools, and is compatible with popular plugins like PDT and PyDev.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.genuitec.com/products/codemix/&quot; rel=&quot;nofollow&quot;&gt;CodeMix&lt;/a&gt;, is a powerful tool for the professional developer, so we offer a free 45 day trial to give you time to discover all it offers. After the trial, you&#039;ll be impressed with how much you get for so little: $29/year (our best deal) or $5/month. Your investment in CodeMix allows us to keep improving, making a great product even better!&lt;/p&gt;
+&lt;p&gt;Already using MyEclipse, Webclipse or Angular IDE from Genuitec? You get CodeMix &lt;a href=&quot;https://www.genuitec.com/products/codemix/faq-existing-customers/&quot; rel=&quot;nofollow&quot;&gt;included in your current license&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Apr 2018 19:34:28 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">4008412 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/codemix-3#comments</comments>
+  </item>
+  <item>
+    <title>Angular IDE</title>
+    <link>http://marketplace.eclipse.org/content/angular-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/angular.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-09-25 10:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-11-09 19:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Now with Angular 8! Content assist, TypeScript 3 support, real-time validation, formatting, debugging, and more. Standalone version at &lt;a href=&quot;https://www.genuitec.com/products/angular-ide/&quot; rel=&quot;nofollow&quot;&gt;Angular IDE&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 10 Nov 2016 00:04:48 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">3157661 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/angular-ide#comments</comments>
+  </item>
+  </channel>
+</rss>
