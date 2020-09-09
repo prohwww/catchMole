@@ -15,7 +15,7 @@
         <th>프로젝트 성격</th>
         <th>미니 프로젝트</th>
         <th>개발인원</th>
-        <th>1명<br>
+        <th>개인|1명<br>
           (<a href="https://github.com/prohwww">전혜원</a>)
       </th>
     </tr>
