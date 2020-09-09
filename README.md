@@ -21,7 +21,7 @@
     </tr>
       <tr>
         <th>프로젝트 개요</th>
-        <th>채팅프로그램</th>
+        <th>두더지 잡기 게임</th>
         <th>개발환경&nbsp;</th>
         <th>Mac OS</th>
     </tr>
