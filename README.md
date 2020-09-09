@@ -15,7 +15,7 @@
         <th>프로젝트 성격</th>
         <th>미니 프로젝트</th>
         <th>개발인원</th>
-        <th>개인|1명<br>
+        <th>개인/1명<br>
           (<a href="https://github.com/prohwww">전혜원</a>)
       </th>
     </tr>
@@ -47,7 +47,7 @@
 
 
 ### 🖥 주요 기능
- - Action Listener : 시작버튼 누르면 랜덤으로 두더지 나오면서 타이머 시작
+ - Action Listener : 시작버튼 누르면 Thread 생성하여 랜덤으로 두더지 나오면서 타이머 시작
  - TimeTask : 두더지 시간차 줘서 나오게 설정
  - Runnable 타이머
 
